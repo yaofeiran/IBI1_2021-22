@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer:
+# Answer:run one time with an random n, repeat 10 times and output the last random n
 
 # Import libraries
 # randint allows drawing a random number,
