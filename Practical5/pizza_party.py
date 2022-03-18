@@ -15,6 +15,5 @@ while p<64:
   if p>=64:
   #n is n+1 at last step,so minus 1
     n=n-1
-    q="when number is straight cut is "+str(n)+",we have enough pieces for each member of IBI class."
     print'when number is straight cut is '+str(n)+', we have enough pieces for each member of IBI class.'
     break
