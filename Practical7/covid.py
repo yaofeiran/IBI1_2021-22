@@ -52,8 +52,8 @@ plt.show()
 
 #question of place having less than 10 cases
 G=covid_data.loc[covid_data['date'].str.contains("2020-03-31"),['location','total_cases']]
-G.to_csv('question.csv',index=False,encoding='gbk')#save every places in a new file
-a=pd.read_csv("question.csv")
+G.to_csv('a.csv',index=False,encoding='gbk')#save every places in a new file
+a=pd.read_csv("a.csv")
 b=a.loc[a['total_cases']<=10,"location"]
 print("Places having cases no more than 10 are listed as follows:",b)
 
