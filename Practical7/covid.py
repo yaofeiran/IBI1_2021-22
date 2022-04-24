@@ -45,6 +45,7 @@ plt.show()
 #plot cases and deaths
 plt.plot(t6,t4,'r+')
 plt.plot(t6,t5,'b+')
+plt.legend(('new_cases','new_deaths'),loc='upper right')
 #modulate x axis
 plt.xticks(china_new_data.iloc[0:len(china_new_data):4,0],rotation=-90)
 plt.show()

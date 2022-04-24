@@ -1,3 +1,5 @@
 Are there places in the world where there have not yet been more than 10 total infections(as of 31 Martch)?
 If so, where are they?
 line 54
+
+The countries in the list had no more than 10 cases.It might because the places have a small population and seldom interacted with other places.
