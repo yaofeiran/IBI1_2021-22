@@ -1,0 +1,13 @@
+alignment socre of human-mouse: 1490
+alignment score of human-random: -351
+alignment score of mouse-random: -348
+Identical amino acid percentage of human-mouse: percent:96.54%
+Identical amino acid percentage of human-random: percent:2.77%
+Identical amino acid percentage of mouse-random: percent:3.11%
+
+The score of human and mouse sequences are high (1490),indicating they are related.
+The scores of random sequence and human/mouse sequences are both negative(-351 and -348),indicating random sequence are distant from human and mouse sequences
+
+It corresponds with the high indentical amino acid percentage of human-mouse pairwise(96.54%) and the low indentical amino acid percentage of human-random (2.77%) and mouse-random (3.11%)
+
+Identical or similar amino acids are likely to be a signature of evolutionary constraint between human and mouse sequences.

@@ -12,7 +12,9 @@ else:
 import numpy as np
 import matplotlib.pyplot as plt
 plt.boxplot(marks, vert=True,whis=1.5,patch_artist=True,notch=False)
-plt.title("distribution of marks")
+plt.title("Distribution of marks")
+plt.xlabel("Practicals")
+plt.ylabel("marks")
 plt.show()
 
 
